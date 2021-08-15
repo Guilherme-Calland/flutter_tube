@@ -38,6 +38,20 @@ class Home extends StatelessWidget {
           )
         ],
       ),
+      body: StreamBuilder(
+        stream: bloc.outVideos,
+        builder: (context, snapshot){
+          if(snapshot.hasData){
+            return ListView.builder(
+                itemBuilder: (context, index){
+                  return ListTile();
+                }
+            );
+          }else{
+            return SizedBox();
+          }
+        },
+      ),
     );
   }
 }
