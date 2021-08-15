@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_tube_temp/blocs/videos.bloc.dart';
 import 'package:flutter_tube_temp/delegates/data.search.dart';
+import 'package:flutter_tube_temp/widgets/video.tile.dart';
 
 class Home extends StatelessWidget {
   @override
@@ -40,11 +41,14 @@ class Home extends StatelessWidget {
       ),
       body: StreamBuilder(
         stream: bloc.outVideos,
-        builder: (context, snapshot){
+        builder: (BuildContext context,AsyncSnapshot snapshot){
           if(snapshot.hasData){
             return ListView.builder(
+                itemCount: snapshot.data!.length,
                 itemBuilder: (context, index){
-                  return ListTile();
+                  return VideoTile(
+                    snapshot.data[index]
+                  );
                 }
             );
           }else{
