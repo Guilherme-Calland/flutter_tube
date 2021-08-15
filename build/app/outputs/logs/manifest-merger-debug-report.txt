@@ -5,19 +5,28 @@ INJECTED from /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutte
 INJECTED from /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/android/app/src/main/AndroidManifest.xml:1:1-41:12
 INJECTED from /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/android/app/src/main/AndroidManifest.xml:1:1-41:12
 MERGED from /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/android/app/src/main/AndroidManifest.xml:1:1-41:12
+MERGED from [:flutter_youtube] /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/build/flutter_youtube/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:shared_preferences] /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/gui/.gradle/caches/transforms-2/files-2.1/f419bf2442c9ba50831eeba89000c9a9/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.1.0] /home/gui/.gradle/caches/transforms-2/files-2.1/2fd9120a6da4df3dbabdd40f6a2d8995/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/68dbf8ea01a1dbd974fc87b5753550f0/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/gui/.gradle/caches/transforms-2/files-2.1/f3e56fdd8e4787bcbe0cb7f18c677775/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/a71638e40cbd9c9c6e5d2d7449ca53dd/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/eb26273f8f7192460456ce62b9bdf9ef/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/d9536c14ffde0b7289f12ba6def6bfa4/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/68dbf8ea01a1dbd974fc87b5753550f0/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/gui/.gradle/caches/transforms-2/files-2.1/a59d1de1f299e68c5b049a432ccfd655/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/gui/.gradle/caches/transforms-2/files-2.1/42415d22b488b741b7e8fbc712464c00/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.customview:customview:1.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/bc28a09d8d2212ffd5788fe6c1853326/customview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.1.0] /home/gui/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/gui/.gradle/caches/transforms-2/files-2.1/ca6b214160bd0909b103aa12202ef51c/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/2271d874344878e62b9a8e309af0c39d/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/fb333fb43575d8a3b51161295454427f/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/cad25976877a6ae855ef6821534f58a1/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/c39070be4a8b092ae5970162a829e305/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/5f606c30f064eed94124828de37fadc0/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/gui/.gradle/caches/transforms-2/files-2.1/96aee308bccd03bc62c306516c23a410/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/gui/.gradle/caches/transforms-2/files-2.1/15792e6083b2b5b5a7ffa285d47daa24/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/b962778313a0e23f9ca3dbafc012c1af/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 INJECTED from /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/android/app/src/debug/AndroidManifest.xml:1:1-7:12
@@ -37,6 +46,8 @@ INJECTED from /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutte
 		ADDED from /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/android/app/src/main/AndroidManifest.xml:1:11-69
 application
 ADDED from /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/android/app/src/main/AndroidManifest.xml:3:4-40:19
+MERGED from [:flutter_youtube] /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/build/flutter_youtube/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-13:19
+MERGED from [:flutter_youtube] /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/build/flutter_youtube/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-13:19
 MERGED from [androidx.core:core:1.1.0] /home/gui/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.1.0] /home/gui/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/gui/.gradle/caches/transforms-2/files-2.1/96aee308bccd03bc62c306516c23a410/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
@@ -93,14 +104,28 @@ uses-sdk
 INJECTED from /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/android/app/src/main/AndroidManifest.xml
 INJECTED from /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/android/app/src/main/AndroidManifest.xml
+MERGED from [:flutter_youtube] /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/build/flutter_youtube/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [:flutter_youtube] /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/build/flutter_youtube/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [:shared_preferences] /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/gui/.gradle/caches/transforms-2/files-2.1/f419bf2442c9ba50831eeba89000c9a9/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/gui/.gradle/caches/transforms-2/files-2.1/f419bf2442c9ba50831eeba89000c9a9/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] /home/gui/.gradle/caches/transforms-2/files-2.1/2fd9120a6da4df3dbabdd40f6a2d8995/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] /home/gui/.gradle/caches/transforms-2/files-2.1/2fd9120a6da4df3dbabdd40f6a2d8995/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/68dbf8ea01a1dbd974fc87b5753550f0/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/68dbf8ea01a1dbd974fc87b5753550f0/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/gui/.gradle/caches/transforms-2/files-2.1/f3e56fdd8e4787bcbe0cb7f18c677775/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/gui/.gradle/caches/transforms-2/files-2.1/f3e56fdd8e4787bcbe0cb7f18c677775/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/a71638e40cbd9c9c6e5d2d7449ca53dd/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/a71638e40cbd9c9c6e5d2d7449ca53dd/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/eb26273f8f7192460456ce62b9bdf9ef/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/eb26273f8f7192460456ce62b9bdf9ef/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/d9536c14ffde0b7289f12ba6def6bfa4/loader-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/d9536c14ffde0b7289f12ba6def6bfa4/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/68dbf8ea01a1dbd974fc87b5753550f0/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/68dbf8ea01a1dbd974fc87b5753550f0/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/gui/.gradle/caches/transforms-2/files-2.1/a59d1de1f299e68c5b049a432ccfd655/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/gui/.gradle/caches/transforms-2/files-2.1/a59d1de1f299e68c5b049a432ccfd655/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/gui/.gradle/caches/transforms-2/files-2.1/42415d22b488b741b7e8fbc712464c00/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/gui/.gradle/caches/transforms-2/files-2.1/42415d22b488b741b7e8fbc712464c00/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.customview:customview:1.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/bc28a09d8d2212ffd5788fe6c1853326/customview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/bc28a09d8d2212ffd5788fe6c1853326/customview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.1.0] /home/gui/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/AndroidManifest.xml:20:5-22:41
@@ -113,12 +138,16 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/gui/.gradle/cach
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/fb333fb43575d8a3b51161295454427f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/cad25976877a6ae855ef6821534f58a1/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/cad25976877a6ae855ef6821534f58a1/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/c39070be4a8b092ae5970162a829e305/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/c39070be4a8b092ae5970162a829e305/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/5f606c30f064eed94124828de37fadc0/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/5f606c30f064eed94124828de37fadc0/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/gui/.gradle/caches/transforms-2/files-2.1/96aee308bccd03bc62c306516c23a410/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/gui/.gradle/caches/transforms-2/files-2.1/96aee308bccd03bc62c306516c23a410/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/gui/.gradle/caches/transforms-2/files-2.1/15792e6083b2b5b5a7ffa285d47daa24/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/gui/.gradle/caches/transforms-2/files-2.1/15792e6083b2b5b5a7ffa285d47daa24/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/b962778313a0e23f9ca3dbafc012c1af/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gui/.gradle/caches/transforms-2/files-2.1/b962778313a0e23f9ca3dbafc012c1af/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 INJECTED from /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/android/app/src/debug/AndroidManifest.xml
 INJECTED from /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
@@ -131,3 +160,9 @@ uses-permission#android.permission.INTERNET
 ADDED from /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/android/app/src/debug/AndroidManifest.xml:6:5-66
 	android:name
 		ADDED from /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/android/app/src/debug/AndroidManifest.xml:6:22-64
+activity#io.github.ponnamkarthik.flutteryoutube.PlayerActivity
+ADDED from [:flutter_youtube] /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/build/flutter_youtube/intermediates/library_manifest/debug/AndroidManifest.xml:9:9-12:20
+	android:configChanges
+		ADDED from [:flutter_youtube] /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/build/flutter_youtube/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-85
+	android:name
+		ADDED from [:flutter_youtube] /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/build/flutter_youtube/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-81

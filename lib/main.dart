@@ -1,7 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_tube_temp/screens/home.dart';
 
+import 'api.dart';
+
 void main(){
+  Api api = Api();
+  api.search('minecraft');
   runApp(MyApp());
 }
 

@@ -86,6 +86,14 @@
 60-->/media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/android/app/src/main/AndroidManifest.xml:38:13-44
 61            android:value="2" />
 61-->/media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/android/app/src/main/AndroidManifest.xml:39:13-30
-62    </application>
-63
-64</manifest>
+62
+63        <activity
+63-->[:flutter_youtube] /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/build/flutter_youtube/intermediates/library_manifest/debug/AndroidManifest.xml:9:9-12:20
+64            android:name="io.github.ponnamkarthik.flutteryoutube.PlayerActivity"
+64-->[:flutter_youtube] /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/build/flutter_youtube/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-81
+65            android:configChanges="orientation|screenSize|keyboardHidden|navigation" >
+65-->[:flutter_youtube] /media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/build/flutter_youtube/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-85
+66        </activity>
+67    </application>
+68
+69</manifest>
