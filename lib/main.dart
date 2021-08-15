@@ -16,6 +16,7 @@ class MyApp extends StatelessWidget {
       title: 'FlutterTube',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
+        cursorColor: Colors.white,
         scaffoldBackgroundColor: Colors.black87,
         backgroundColor: Colors.black87,
         textTheme: TextTheme(
