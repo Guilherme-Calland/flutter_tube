@@ -1,4 +1,4 @@
-com.guilhermecallandprojects.flutter_tube
+com.guilhermecallandprojects.flutter_tube_temp
 attr alpha
 attr font
 attr fontProviderAuthority

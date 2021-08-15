@@ -1,4 +1,4 @@
 io/flutter/plugins/GeneratedPluginRegistrant.java
  io.flutter.plugins.GeneratedPluginRegistrant
-com/guilhermecallandprojects/flutter_tube/BuildConfig.java
- com.guilhermecallandprojects.flutter_tube.BuildConfig
+com/guilhermecallandprojects/flutter_tube_temp/BuildConfig.java
+ com.guilhermecallandprojects.flutter_tube_temp.BuildConfig

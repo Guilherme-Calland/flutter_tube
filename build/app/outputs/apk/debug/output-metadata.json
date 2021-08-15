@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.guilhermecallandprojects.flutter_tube",
+  "applicationId": "com.guilhermecallandprojects.flutter_tube_temp",
   "variantName": "processDebugResources",
   "elements": [
     {
