@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/media/gui/37b51b90-0796-4ade-88a8-6357f5e54277/home/ubuntu/flutter_projects/flutter_tube/android/app/src/main/res/values-night/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "172,815",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "464,979"
+                    },
+                    "to": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,352",
+                        "endLines": "6,9",
+                        "endColumns": "12,12",
+                        "endOffsets": "347,516"
+                    }
+                }
+            ]
+        }
+    ]
+}
