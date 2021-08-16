@@ -1,4 +1,5 @@
 import 'dart:convert';
+import 'dart:core';
 
 import 'package:http/http.dart' as http;
 
@@ -6,30 +7,38 @@ import 'models/video.dart';
 
 const API_KEY = "AIzaSyC_GjZGGuvervM19n_mPJWYXw1_9L5-bxc";
 
-class Api{
-  search(String search) async{
-    http.Response response = await http.get(
-      Uri.parse("https://www.googleapis.com/youtube/v3/search?part=snippet&q=$search&type=video&key=$API_KEY&maxResults=10")
-    );
+class Api {
 
+  String? _search;
+  String? _nextToken;
+
+  Future<List<Video>> search(String search) async {
+    _search = search;
+    http.Response response = await http.get(Uri.parse(
+        "https://www.googleapis.com/youtube/v3/search?part=snippet&q=$search&type=video&key=$API_KEY&maxResults=10"));
     return decode(response);
   }
 
-  List<Video> decode(http.Response response){
-    if(sucessfullResponse(response)){
+  Future<List<Video>> nextPage() async {
+    http.Response response = await http.get(Uri.parse(
+        "https://www.googleapis.com/youtube/v3/search?part=snippet&q=$_search&type=video&key=$API_KEY&maxResults=10&pageToken=$_nextToken"));
+    return decode(response);
+  }
+
+  List<Video> decode(http.Response response) {
+    if (sucessfullResponse(response)) {
       var decoded = json.decode(response.body);
-      List<Video> videos = decoded['items'].map<Video>(
-          (map){
-            return Video.fromJson(map);
-          }
-      ).toList();
+      _nextToken = decoded['nextPageToken'];
+
+      List<Video> videos = decoded['items'].map<Video>((map) {
+        return Video.fromJson(map);
+      }).toList();
       //print(videos);
       return videos;
-    }else{
+    } else {
       print(' unsucessfull response :( ');
       throw Exception('failed to load videos :(');
     }
-
   }
 
   bool sucessfullResponse(http.Response response) => response.statusCode == 200;

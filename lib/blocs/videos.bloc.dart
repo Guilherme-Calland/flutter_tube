@@ -21,10 +21,26 @@ class VideosBloc implements BlocBase{
     _searchController.stream.listen(_search);
   }
 
-  void _search(dynamic search) async{
-    videos = await api!.search(search);
-    _videosController.sink.add(videos);
-    print(videos);
+  void _search(dynamic? search) async{
+    if(api != null && search!= null){
+      if(search != 'new page'){
+        videos = await api!.search(search);
+      } else {
+        //adds next page to the list
+        videos += await api!.nextPage();
+      }
+      _videosController.sink.add(videos);
+    } else {
+      print('api or search variables were given as null');
+    }
+
+  }
+
+  void nullSafety(String message) {
+    print(message);
+    throw Exception(
+      message
+    );
   }
 
   @override

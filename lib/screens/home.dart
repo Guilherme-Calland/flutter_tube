@@ -44,11 +44,24 @@ class Home extends StatelessWidget {
         builder: (BuildContext context,AsyncSnapshot snapshot){
           if(snapshot.hasData){
             return ListView.builder(
-                itemCount: snapshot.data!.length,
+                itemCount: snapshot.data!.length + 1,
                 itemBuilder: (context, index){
-                  return VideoTile(
-                    snapshot.data[index]
-                  );
+                  if(index < snapshot.data.length){
+                    return VideoTile(
+                        snapshot.data[index]
+                    );
+                  } else {
+                    bloc.inSearch.add('new page');
+                    return Container(
+                      height: 40,
+                      width: 40,
+                      alignment: Alignment.center,
+                      child: CircularProgressIndicator(
+                        valueColor: AlwaysStoppedAnimation<Color>(Colors.red),
+                      ),
+                    );
+                  }
+
                 }
             );
           }else{

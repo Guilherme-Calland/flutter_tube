@@ -11,7 +11,6 @@ class DataSearch extends SearchDelegate<String> {
       brightness: Brightness.dark,
       primaryColor: Colors.black87,
       hintColor: Colors.grey,
-
       inputDecorationTheme: InputDecorationTheme(
         border: InputBorder.none,
       ),

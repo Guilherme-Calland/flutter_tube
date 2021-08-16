@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="329a8c8d-6f0d-49dc-8868-2b3758cd3685" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/widgets/video.tile.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/0eb00c38d63091f1aed6e67548fb9d27/.filecache" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/0eb00c38d63091f1aed6e67548fb9d27/.filecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/0eb00c38d63091f1aed6e67548fb9d27/app.dill" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/0eb00c38d63091f1aed6e67548fb9d27/app.dill" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/0eb00c38d63091f1aed6e67548fb9d27/debug_android_application.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/0eb00c38d63091f1aed6e67548fb9d27/debug_android_application.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/0eb00c38d63091f1aed6e67548fb9d27/flutter_assets.d" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/0eb00c38d63091f1aed6e67548fb9d27/flutter_assets.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/0eb00c38d63091f1aed6e67548fb9d27/kernel_snapshot.d" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/0eb00c38d63091f1aed6e67548fb9d27/kernel_snapshot.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/0eb00c38d63091f1aed6e67548fb9d27/kernel_snapshot.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/0eb00c38d63091f1aed6e67548fb9d27/kernel_snapshot.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/kernel_blob.bin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/kernel_blob.bin.jar" afterDir="false" />
@@ -22,6 +23,9 @@
       <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk.sha1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/c075001b96339384a97db4862b8ab8db.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/c075001b96339384a97db4862b8ab8db.cache.dill.track.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/api.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/api.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/blocs/videos.bloc.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/blocs/videos.bloc.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/delegates/data.search.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/delegates/data.search.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/screens/home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/home.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
